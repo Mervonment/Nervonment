@@ -3,3 +3,6 @@
 An undergraduate student in Beijing. Minecraft redstone player. Learning Rust in spare time. 
 
 北京のとある大学の学部生. Minecraft redstone プレーヤー. 空いた時間に Rust を学んでいる. 
+
+
+bxbxbxbxbbxbbxbxbxbbxbxbxb
